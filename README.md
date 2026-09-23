@@ -214,3 +214,7 @@ python main.py
 ![Captura en consola de la clase libro primera parte](capturas/taller_clases_libros/libros_1.png)
 
 ![Captura en consola de la clase libro segunda parte](capturas/taller_clases_libros/libros_2.png)
+
+## Reflexión
+
+Esta actividad nos permite reforzar la creación de clases, objetos y la integración del usuario en consola, además, permite practicar git flow gracias a las diferentes actividades a realizar (reto, talleres, capturas, readme. Etc.)
